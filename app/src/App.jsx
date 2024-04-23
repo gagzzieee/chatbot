@@ -11,7 +11,7 @@ import {
   TypingIndicator,
 } from "@chatscope/chat-ui-kit-react";
 
-const API_KEY = "I Have removed my api key because of this repository being public but i can give it to you personally if you want ma'am/sir.";
+const API_KEY = "API key goes here";
 
 const systemMessage = {
   role: "system",
